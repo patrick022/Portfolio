@@ -44,8 +44,8 @@ const About = () => {
 				className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
 			>
 				I am software developer with experience in javascript and typescript,
-				and expertise in frameworks like React, Node.js and Next.js. I am a
-				quick learner and collaborate closely with clients to create efficient,
+				and expertise in frameworks like React, Node.js and Next.js. I am
+				approachable and collaborative within clients to create efficient,
 				scalable and user friendly solutions.
 			</motion.p>
 			<div className="mt-20 flex flex-wrap gap-10">
