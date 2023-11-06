@@ -45,7 +45,7 @@ const About = () => {
 			>
 				I am a Software Developer graduate from Mapua Malayan Colleges Laguna
 				with a degree in Bachelor of Science in Information Technology. My
-				experiences ranges from Javascript and Typescript with expertise in
+				experiences range from Javascript and Typescript with expertise in
 				frameworks like React, Node.js and Next.js. <br /> <br />
 				Approachable and collaborative with clients to create efficient,
 				scalable and user friendly solutions.

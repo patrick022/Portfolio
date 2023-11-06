@@ -100,9 +100,9 @@ const experiences = [
 		iconBg: '#383E56',
 		date: 'September 2021 — September 2023',
 		points: [
-			'Worked with multiple web development (HMO) platform using React/Next.js framework with Typescript.',
-			'Collaborating with teams by following SDLC, Agile and scrum methodologies for both front-end and back-end.',
-			'Used Nodejs for creating API endpoints and tested through Postman and MongoDB.',
+			'Multiple web development (HMO) platform using React/Next.js framework with Typescript.',
+			'SDLC, Agile and scrum methodologies for both front-end and back-end team collaboration.',
+			'API endpoints via Nodejs and tested through Postman and MongoDB.',
 		],
 	},
 	{
@@ -112,9 +112,9 @@ const experiences = [
 		iconBg: '#383E56',
 		date: 'June 2021 — August 2021',
 		points: [
-			'Worked with CTO to develop new features and modules using React.',
+			'Collaborated with CTO to develop new features and modules using React.',
 			'Bug fixing and feature adding for different applications (dental, restaurant and hospital apps).',
-			'Followed through Agile methodologies and scrum with a team for front-end and back-end sides.',
+			'Followed through Agile methodologies and Scrum with a team for front-end and back-end sides.',
 			'Used MongoDB, Graphql in backend with microservice for dental applications.',
 		],
 	},
@@ -125,9 +125,9 @@ const experiences = [
 		iconBg: '#383E56',
 		date: 'Jan 2022 - Jan 2023',
 		points: [
-			'Integrating XML code interface and MS SQL database into C# program.',
-			'Inspecting former tap ID system of the school hardware.',
-			'Remaking of the tap ID system with C#.',
+			'XML code interface and MS SQL database integration into C# program.',
+			'Tap ID system inspection of the school hardware.',
+			'Tap ID system with C# upgrade.',
 		],
 	},
 ];

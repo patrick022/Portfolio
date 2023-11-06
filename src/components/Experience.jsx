@@ -12,6 +12,8 @@ import { experiences } from '../constants';
 import { SectionWrapper } from '../hoc';
 import { textVariant } from '../utils/motion';
 
+import { Tech } from '../components';
+
 const ExperienceCard = ({ experience }) => (
 	<VerticalTimelineElement
 		contentStyle={{ background: '#1d1836', color: '#fff' }}
@@ -58,6 +60,7 @@ const Experience = () => {
 				<p className={styles.sectionSubText}>What I have done so far</p>
 				<h2 className={styles.sectionHeadText}>Work Experiences</h2>
 			</motion.div>
+			<Tech />
 			<div className="mt-20 flex flex-col">
 				<VerticalTimeline>
 					{experiences.map((experience, index) => (
