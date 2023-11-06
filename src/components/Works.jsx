@@ -86,9 +86,9 @@ const Works = () => {
 					className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
 					variants={fadeIn('', '', 0.1)}
 				>
-					Following projects showcases my skills and experience through
-					real-world examples of my work. Each project is briefly described with
-					links to code repositories and live demos in it.
+					Here are some projects that showcase my skills and experiences using
+					real world samples. Links to code repositories and live demos on each
+					icon.
 				</motion.p>
 			</div>
 
