@@ -123,7 +123,7 @@ const experiences = [
 		company_name: 'Mapua Malayan Colleges Laguna',
 		icon: mcl,
 		iconBg: '#383E56',
-		date: 'Jan 2022 - Jan 2023',
+		date: 'Oct 2017 - May 2018',
 		points: [
 			'XML code interface and MS SQL database integration into C# program.',
 			'Tap ID system inspection of the school hardware.',
