@@ -231,11 +231,11 @@ const projects = [
     tags: [
       {
         name: "nextjs",
-        color: "green-text-gradient",
+        color: "text-lime-400",
       },
       {
         name: "clerk",
-        color: "purple-text-gradient",
+        color: "text-purple-500",
       },
     ],
     image: linkup,
