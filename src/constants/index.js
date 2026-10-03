@@ -15,7 +15,7 @@ import {
   ubihive,
   carhub,
   jobforte,
-  ctracker,
+  linkup,
   mcl,
   firebase,
   flutter,
@@ -225,22 +225,22 @@ const projects = [
     demo_link: "https://jobforte.onrender.com/",
   },
   {
-    name: "Covid-19 Tracker",
+    name: "Link Up",
     description:
-      "A website tracker for Covid-19 cases around the world, api from resource health",
+      "A Video call meeting app that uses clerk for account handling and stream io for video call handling with meeting room, device selection, previous call recordings and private room link features.",
     tags: [
       {
-        name: "react",
-        color: "blue-text-gradient",
+        name: "nextjs",
+        color: "green-text-gradient",
       },
       {
-        name: "css",
-        color: "pink-text-gradient",
+        name: "clerk",
+        color: "purple-text-gradient",
       },
     ],
-    image: ctracker,
-    source_code_link: "https://github.com/patrick022/Covid-19-Tracker",
-    demo_link: "https://covid-19-tracker-1339f.web.app/",
+    image: linkup,
+    source_code_link: "https://github.com/patrick022/LinkUp-Video-chat",
+    demo_link: "https://link-up-video-chat.vercel.app/",
   },
 ];
 

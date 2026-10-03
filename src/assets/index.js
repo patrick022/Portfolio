@@ -29,7 +29,7 @@ import mcl from "./company/MCL.png";
 
 import carhub from "./carhub.png";
 import jobforte from "./jobforte.png";
-import ctracker from "./ctracker.png";
+import linkup from "./linkup.jpg";
 
 import link from "./link.png";
 
@@ -62,6 +62,6 @@ export {
   mcl,
   carhub,
   jobforte,
-  ctracker,
+  linkup,
   link,
 };
