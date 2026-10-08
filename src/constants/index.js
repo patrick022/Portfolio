@@ -21,6 +21,7 @@ import {
   flutter,
   ascendion,
   mobile,
+  codegraph,
 } from "../assets";
 
 export const navLinks = [
@@ -173,6 +174,39 @@ const experiences = [
 
 const projects = [
   {
+    name: "CodeGraph",
+    description: "Codegraph is an app for analyzing codebases for developers",
+    tags: [
+      {
+        name: "nextjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "postgresql",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "clerk",
+        color: "text-purple-500",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "langSmith",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "claude",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: codegraph,
+    source_code_link: "https://github.com/patrick022/Codegraph",
+    demo_link: "https://codegraph-pied.vercel.app/",
+  },
+  {
     name: "Car Hub",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
@@ -183,11 +217,11 @@ const projects = [
       },
       {
         name: "nextjs",
-        color: "orange-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "mongodb",
-        color: "green-text-gradient",
+        color: "text-white",
       },
       {
         name: "tailwind",

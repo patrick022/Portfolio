@@ -27,6 +27,7 @@ import bcs from "./company/bcs.jpg";
 import ubihive from "./company/ubihive.png";
 import mcl from "./company/MCL.png";
 
+import codegraph from "./codegraph.jpg";
 import carhub from "./carhub.png";
 import jobforte from "./jobforte.png";
 import linkup from "./linkup.jpg";
@@ -60,6 +61,7 @@ export {
   bcs,
   ubihive,
   mcl,
+  codegraph,
   carhub,
   jobforte,
   linkup,
